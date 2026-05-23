@@ -1,5 +1,3 @@
-# Business-Analytics-Dashboard
-project on power bi
 # 📊 Business Analytics Dashboard — Power BI
 
 An interactive business analytics dashboard built in Power BI, integrating multiple data sources through Power Query and DAX to deliver real-time visual insights across sales, products, regions, and customers.
